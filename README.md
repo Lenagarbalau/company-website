@@ -1,2 +1,2 @@
-# company-website
-Easy website about a company, looking for new employees.
+##### Hey! I created easy website about a company, looking for new employees.
+
